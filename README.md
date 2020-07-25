@@ -1,4 +1,6 @@
+
 # Basic_Speech_To_Text-Api
-I have created a basic Speech to text, which the user can say and in return, the answer will come regarding it.
 
-
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+PYTHONE BASED API DO SPEECH TO TEXT THAT CAN BE USE TO BUILD CHATBOT
+I have created a basic Speech to text,in which user can say and in return the answer will come regarding to it.
